@@ -18,4 +18,4 @@ Lab 5 was a very interesting lab in which we had to edit 4 different files. It w
 
 * Lab #6:
 
-My favorite lab out of all the labs we have done in CPSC 120L was Lab 6. Lab 6 was based off of blackjack which is one of my favorite card games. Because of this, it made the Lab twice as enjoyable despite running into many problems when creating functions to calculate values for each card or whether the player busted or not.
+My favorite lab out of all the labs we have done in CPSC 120L was Lab 6. Lab 6 was based off of blackjack which is one of my favorite card games. Because of this, it made the Lab twice as enjoyable despite running into many problems when creating functions to calculate values for each card or whether the player busted or not using boolean functions.
